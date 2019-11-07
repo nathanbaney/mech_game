@@ -1,0 +1,15 @@
+vague data structures
+
+mech
+	set (mechparts, positions_on_mech_sprite)
+	quat position,direction
+	img sprite
+
+mechpart
+	set things_it_controls
+	minigame repair_minigame
+
+minigame
+	img the_circuitboard_or_whatever
+	
+	
